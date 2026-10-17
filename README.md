@@ -26,6 +26,7 @@ La aplicación muestra:
 ```bash
 flutter pub get
 flutter run
+```
 
 ## Autor
 Mauricio Daiki Rascón Yamamoto
@@ -68,3 +69,4 @@ class MyApp extends StatelessWidget {
     );
   }
 }
+```
