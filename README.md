@@ -1,17 +1,28 @@
-# hello_flutter
+# Welcome to Flutter
 
-A new Flutter project.
+Primera aplicación desarrollada con Flutter para la actividad
+3.3 "Inicio del desarrollo" de la materia Diseño de Aplicaciones
+Móviles.
 
-## Getting Started
+## Objetivo
 
-This project is a starting point for a Flutter application.
+Familiarizarse con el entorno de desarrollo Flutter mediante la
+creación de una aplicación básica.
 
-A few resources to get you started if this is your first Flutter project:
+## Funcionalidad
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+La aplicación muestra:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- El título "Welcome to Flutter" en la barra superior.
+- El texto "Hello World" en el centro de la pantalla.
+
+## Tecnologías
+
+- Flutter
+- Dart
+
+## Ejecución
+
+```bash
+flutter pub get
+flutter run
